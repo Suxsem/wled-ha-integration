@@ -1,5 +1,5 @@
 {
-  "domain": "wled-enhanced",
+  "domain": "wled_enhanced",
   "name": "WLED enhanced",
   "codeowners": [],
   "config_flow": true,
